@@ -1,0 +1,6 @@
+# Ignore saved images and model weights
+incoming/
+*.jpg
+*.png
+*.pt
+__pycache__/
